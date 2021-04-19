@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+main{
+	padding-left: 50px;
+	color: white;
+}
+
+h2{
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+p{
+	margin-right: 200px;
+	font-size: 20px;
+}
+
+body {
+	padding-top: 150px;
+	font-family: 'Rajdhani', sans-serif;
+	background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+}
+
+header{
+	text-align: center;
+	color: white;
+}
+
+header img{
+	border-radius: 200px;
+	width: 200px;
+	}
+
+nav	{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	position: fixed;
+	top: 0;
+}
+
+ul{
+
+}
+
+ul li{
+	list-style: none;
+	display: inline-block;
+	float: left;
+	line-height: 100px;
+
+}
+
+ul li a{
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: arial;
+	color: white;
+	padding: 0 20px;
+}
+
+ul li a:hover{
+	color: red;
+	font-size: 30px;
+}
+
+.padding{
+	padding-top: 30px;
+}
+
+ol{
+	margin: 30px;
+}
+
+.footer{
+	padding-top: 155px;
+}
+
+footer{
+	padding-top: 50px;
+	background-color: solid black;
+	font-family: sans-serif;
+}
+
+.img{
+	width: 200px;
+	height: 150px;
+	float: right;
+	padding-top: 50px;
+}
+
+.imgr{
+	width: 200px;
+	height: 150px;
+	float: left;
+	padding-top: 50px;
+	padding-right: 50px;
+}
